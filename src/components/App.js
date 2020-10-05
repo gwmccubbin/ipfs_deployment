@@ -29,7 +29,7 @@ class App extends Component {
                 </a>
                 <h1>Dapp University Starter Kit</h1>
                 <p>
-                  Edit <code>src/components/App.js</code> and save to reload.
+                  This website is running on IPFS!
                 </p>
                 <a
                   className="App-link"
